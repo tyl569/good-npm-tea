@@ -115,7 +115,7 @@ fn main() {
 
  <br />
 <section align="left" style="border-radius: 20px">
-  Connect With <a href="https://linkedin.com/in/muneeb-rabaney/">Me</a>
+  Connect With <a href="https://github.com/tyl569">Me</a>
   <br />
   <br />
   <a href="https://za.linkedin.com/in/muneeb-rabaney" target="blank">
