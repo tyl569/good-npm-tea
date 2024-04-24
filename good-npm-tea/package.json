@@ -1,5 +1,5 @@
 {
-  "name": "npmtea",
+  "name": "good-npm-tea",
   "version": "1.1.5",
   "scripts": {
     "dev": "next dev",
@@ -27,7 +27,7 @@
   "main": "postcss.config.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hkia2/npmteaa.git"
+    "url": "https://github.com/tyl569/good-npm-tea.git"
   },
   "keywords": [
     "npmteaa"
@@ -35,7 +35,7 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hkia2/npmteaa/issues"
+    "url": "https://github.com/tyl569/good-npm-tea/issues"
   },
-  "homepage": "https://github.com/hkia2/npmteaa#readme"
+  "homepage": "https://github.com/tyl569/good-npm-tea#readme"
 }
